@@ -1,0 +1,2 @@
+(this["webpackJsonpforbitswap-nfts-interface-v2"]=this["webpackJsonpforbitswap-nfts-interface-v2"]||[]).push([[86],{2612:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return i}));var r=e(1776),a=(e(0),e(2));function i(){return Object(a.jsx)(r.a,{variant:"h2",children:"404 Page not found!!!"})}}}]);
+//# sourceMappingURL=86.f9210f47.chunk.js.map

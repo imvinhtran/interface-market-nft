@@ -1,0 +1,2 @@
+(this["webpackJsonpforbitswap-nfts-interface-v2"]=this["webpackJsonpforbitswap-nfts-interface-v2"]||[]).push([[89],{2604:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return o}));var r=n(21),s=(n(0),n(276)),a=n(1779),c=n(2);function o(t){var e=Object(s.b)(),n=Object(r.a)(e,2),o=n[0],i=(n[1],o.get("query"));return console.log("searchParams",o),console.log("query",i),Object(c.jsx)(a.a,{maxWidth:"xl"})}}}]);
+//# sourceMappingURL=89.92fee1db.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpforbitswap-nfts-interface-v2"]=this["webpackJsonpforbitswap-nfts-interface-v2"]||[]).push([[84],{2559:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return s}));e(0);var i=e(2);function s(t){return Object(i.jsx)("h1",{style:{textAlign:"center",display:"none"},children:"Title"})}}}]);
+//# sourceMappingURL=84.3005b45a.chunk.js.map

@@ -1,0 +1,35 @@
+pipeline {
+
+    agent any
+    
+    environment {
+        PASS = credentials('docker-registry-pass') 
+    }
+
+    stages {
+
+        stage('Build') {
+            steps {
+                sh './deploy/pipeline/build/build.sh'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                sh './deploy/pipeline/test/test.sh'
+            }
+        }
+
+        stage('Push') {
+            steps {
+                sh './deploy/pipeline/push/push.sh'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                sh './deploy/pipeline/deploy/deploy.sh'
+            }
+        }
+    }
+}

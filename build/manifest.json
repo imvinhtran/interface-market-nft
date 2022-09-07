@@ -1,0 +1,25 @@
+{
+	"short_name": "NFTSpaceX",
+	"name": "NFTSpaceX",
+	"icons": [
+		{
+			"src": "./64x64.png",
+			"type": "image/x-icon",
+			"sizes": "64x64"
+		},
+		{
+			"src": "./192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#0B2E4B",
+	"background_color": "#0c5599"
+}
